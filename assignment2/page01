@@ -4,11 +4,12 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="assets/css/styles1.css">
         <title>placeholder</title>
+
     </head>
     <body>
-        <h1>Title page</h1>
-        <div id="start" class="text">
-            <p>ererer enter <a href="#page01">pg1</a></p>
+        <h1>Page 1</h1>
+        <div id="start" class="sec">
+            <p>enter <a href="#page02">pg2</a></p>
         </div>
     </body>
 </html>
