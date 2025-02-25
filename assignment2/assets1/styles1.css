@@ -1,12 +1,13 @@
 body {
     background-color: #1d1d1c;
     font-family:'Times New Roman', Times, serif;
-    text-align:center;
+    text-align: center;
   }
   .text {
     color:blueviolet;
     font-size: 70px;
-    text-align:center;
+    display: block;
+    text-align: center;
 
   }
   h1 {
