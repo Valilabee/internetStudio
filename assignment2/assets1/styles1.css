@@ -1,16 +1,17 @@
 body {
     background-color: #1d1d1c;
     font-family:'Times New Roman', Times, serif;
+    text-align:center;
   }
   .text {
     color:blueviolet;
-    font-size: 70;
+    font-size: 70px;
     text-align:center;
 
   }
   h1 {
     color: rgb(135, 0, 212);
-    font-size: 3rem;
+    font-size: 100px;
     text-align: center;
   }
   a {
