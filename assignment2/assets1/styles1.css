@@ -15,4 +15,6 @@ body {
     font-size: 3rem;
     text-align: center;
   }
-  
+  .nav{
+    color: rgb(205, 43, 226);
+  }

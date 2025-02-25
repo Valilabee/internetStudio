@@ -9,7 +9,7 @@
     <body>
         <h1>Page 1</h1>
         <div id="start" class="sec">
-            <p>enter <a href="#page02">pg2</a></p>
+            <p>enter <a href="#page02.html">Page 2</a></p>
         </div>
     </body>
 </html>
