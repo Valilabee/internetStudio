@@ -6,7 +6,7 @@ body {
   .text {
     color:blueviolet;
     font-size: 70px;
-    display: block;
+    margin: 80 auto;
     text-align: center;
 
   }
