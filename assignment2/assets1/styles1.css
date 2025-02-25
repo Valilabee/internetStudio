@@ -5,8 +5,9 @@ body {
   .text {
     color:blueviolet;
     display: block;
-    width: 80%;
-    margin: 40px auto;
+    width: 30%;
+    font-size: 20;
+    margin: 50px auto;
     /* border: 1px solid black; */
     /* turn borders off and on to see the borders of the display area */
   }
