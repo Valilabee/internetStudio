@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="assets1/styles1.css">
+        <title>placeholder</title>
+
+    </head>
+    <body>
+        <div id="page3" class="text">
+            <p>With my symptoms&comma; symptoms of sorrow and <a href="page04">dread.</a></p>
+        </div>
+    </body>
+</html>
