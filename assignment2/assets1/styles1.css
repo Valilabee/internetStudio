@@ -3,12 +3,9 @@ body {
     font-family: "Caveat"
     text-align: center;
   }
-  @font-face {
-    font-family: "Caveat", cursive;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-  }
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Indie+Flower&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+  </style>
 
   .text {
     color:blueviolet;
