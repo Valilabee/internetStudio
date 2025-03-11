@@ -1,11 +1,10 @@
+
 body {
     background-color: #1d1d1c;
-    font-family:@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Indie+Flower&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+    font-family:'Times New Roman', Times, serif;
     text-align: center;
   }
-  <style>
-  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Indie+Flower&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-  </style>
+
 
   .text {
     color:blueviolet;
